@@ -1,0 +1,1 @@
+echo "Lecture Chutiya hai!"
